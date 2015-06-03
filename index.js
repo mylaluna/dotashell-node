@@ -51,5 +51,5 @@ else {
 	//Test local change to github then to server
 }
 
-}).listen(1338, '128.199.123.131');
+}).listen(1337, '128.199.123.131');
 console.log('Server running at http://128.199.123.131:1337/');
