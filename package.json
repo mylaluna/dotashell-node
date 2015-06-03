@@ -1,0 +1,16 @@
+{
+  "name": "dotashell",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.1.0",
+    "express-generator": "^4.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rain Zhang",
+  "license": "ISC"
+}
